@@ -74,7 +74,7 @@ logo='''
 
 \033[1;91m☞ Auther     : B4_BALOCH_M4_MASTER
 \033[1;92m☞ WhatsApp   : 03232132362
-\033[1;95m☞ YouTube    : https://www.youtube.com/channel/UCAGKWM8EwDFZ9sP8CdJhGBA
+\033[1;95m☞ YouTube    : https://youtube.com/channel/UCRnpWUOCz3Sb1RAX3GK4r0A
 
 \033[1;93m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
                                 '''
@@ -105,7 +105,7 @@ def login():
 		    st.write(z["access_token"])
 		    st.close()
 		    print (S + '[☆]' + Y + ' Login successfull 100% ✓')
-		    os.system('xdg-open https://www.youtube.com/channel/UCAGKWM8EwDFZ9sP8CdJhGBA')
+		    os.system('xdg-open https://youtube.com/channel/UCRnpWUOCz3Sb1RAX3GK4r0A')
 		    menu()
 		else:
 		    if "www.facebook.com" in z["error_msg"]:
